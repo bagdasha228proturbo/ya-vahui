@@ -1,0 +1,21 @@
+.varysi {
+	max-width: 1000px;
+	margin:auto;
+}
+
+.a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:aktive {
+	color: black;
+}
+
+a:visited {
+	color: grey;
+}
